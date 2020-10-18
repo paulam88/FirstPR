@@ -1,4 +1,4 @@
-# RECOPIA-FirstPullRequest
+# firstPullRequest
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -113,7 +113,7 @@ Ahora empieza a contribuir a otros proyectos.
 ## Auto promoción
 
 Si te gustó este proyecto, márcalo como favorito con una estrella en [GitHub](https://github.com/jhonatanoc96/FirstPullRequest).
-Si te sientes agradecido, sigue a [Jhonatan Ocampo] en
-[Instagram](https://www.instagram.com/jhonatanocampoa/) y
-[GitHub](https://github.com/jhonatanoc96).
+Si te sientes agradecido, sigue a [Paula Arroyave] en
+[Instagram](https://www.instagram.com/paulitam55/) y
+[GitHub](https://github.com/paulam88).
 # FirstPR
